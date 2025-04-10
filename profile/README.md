@@ -73,7 +73,7 @@ Este conjunto de funcionalidades avanzadas permite posicionar a Scite AI como un
 
 <a target="_blank" href="https://scite.ai/?via=new">Click here to have free access !</a>
 
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnE2l7l3_Lu97JFB9T8CBkpfn63eI-0yA1sw&s"
+<img src="https://i.ytimg.com/vi/LrqYSmLSLyc/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLC_jghHMb7G4xo4WlIFykqsqZ0Sbw"
   alt="comparative with Scite ai "
   width="750"
   height="450"
