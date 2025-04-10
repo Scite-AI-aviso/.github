@@ -73,7 +73,7 @@ Este conjunto de funcionalidades avanzadas permite posicionar a Scite AI como un
 
 <a target="_blank" href="https://scite.ai/?via=new">Click here to have free access !</a>
 
-<img src="https://doctoraimd.com/wp-content/uploads/2024/02/Screen-Shot-2024-02-12-at-9.34.23-PM.png"
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnE2l7l3_Lu97JFB9T8CBkpfn63eI-0yA1sw&s"
   alt="comparative with Scite ai "
   width="750"
   height="450"
