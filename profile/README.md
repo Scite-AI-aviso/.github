@@ -1,6 +1,6 @@
 <h1>Scite AI aviso (Análisis 2025): ¿realmente facilita tu investigación científica?</h1>
 <p><strong>Scite AI aviso</strong> | <time datetime="2025-04-10">April 10, 2025</time></p>
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTU0yUnDUVgxdiNfgC7knBvDdG2E0AXdl1SBA&s"
+<img src="https://i.ytimg.com/vi/-bs3fjS2frs/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCJQaFGk-OZ7CiEU-mUaGQmfPa6zw"
   alt="comparative with Scite ai "
   width="750"
   height="450"
